@@ -1,5 +1,5 @@
 # learn-getx
-tugas belajar menggunakan GetX
+study assignment using GetX
 
 GetX Counter App 🚀
 
